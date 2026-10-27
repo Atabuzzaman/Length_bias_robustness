@@ -4,7 +4,7 @@
   <a href="https://aclanthology.org/2026.emnlp-main.2559/"><img src="https://img.shields.io/badge/EMNLP-2026%20Main-blue" alt="EMNLP 2026 Main"></a>
   <a href="https://aclanthology.org/2026.emnlp-main.2559.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper PDF"></a>
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-lightgrey" alt="Code coming soon">
-  <img src="https://img.shields.io/badge/Dataset-Coming%20Soon-lightgrey" alt="Dataset coming soon">
+    <a href="Datasets/"><img src="https://img.shields.io/badge/Dataset-Available-green" alt="Dataset available"></a>
 </p>
 
 <p align="center">
@@ -28,9 +28,18 @@ Large Vision-Language Models (LVLMs) demonstrate strong performance on multiple-
 </p>
 <p align="center"><em>Layer-wise probabilities for the short correct answer versus the average long distractor (Qwen2.5-VL-7B, Shorter Correct split). In length-biased errors, late layers amplify long distractors and suppress the correct answer; when the model is correct, the same layers amplify the correct answer instead.</em></p>
 
-## Code and Dataset
+## Dataset
 
-The code and the length-controlled MCQA benchmark (five fine-grained visual domains: CUB-200-2011, Stanford Dogs, FGVC Aircraft, Stanford Cars, Food-101) are **coming soon**.
+The length-controlled MCQA benchmark is available in [`Datasets/`](Datasets/). It covers five fine-grained visual domains: CUB-200-2011, Stanford Dogs, FGVC Aircraft, Stanford Cars, and Food-101. Each question has four length-controlled variants: **Equal Long**, **Equal Short**, **Shorter Correct**, and **Longer Correct**.
+
+Files follow the pattern `len_bias_variants_<domain>_hard_<setting>.json`:
+- `with_name`: answer options include the class name
+- `wo_name`: answer options contain only visual descriptions
+- `_easy` (CUB and Dogs): easy-difficulty questions with distractors from unrelated classes
+
+## Code
+
+Code is **coming soon**.
 
 ## Citation
 
