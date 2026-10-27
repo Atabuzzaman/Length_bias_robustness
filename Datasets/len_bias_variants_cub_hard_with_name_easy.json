@@ -1,0 +1,314 @@
+[
+    {
+        "mcq_id": "Black_footed_Albatross",
+        "question_type": "equal_long",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M3 Coupe 2012 car with a distinctive design featuring a prominent grille, aggressive styling, dual exhausts, sporty wheels, and a sleek coupe body with side gills.",
+            "B": "This is an Acura TSX Sedan 2012 car with a sleek design, Acura branding on the grille, projector headlights, five-spoke wheels, and a sporty profile with integrated dual exhausts.",
+            "C": "This image shows a Black-footed Albatross bird with a predominantly dark brown body, a pale head and neck, a long pinkish bill, and long, narrow wings suited for soaring over oceans.",
+            "D": "This image shows a pad thai food item with rice noodles stir-fried with vegetables, protein, and a flavorful sauce, garnished with peanuts, cilantro, lime, and bean sprouts."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Black_footed_Albatross",
+        "question_type": "equal_short",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M3 Coupe with a distinctive design.",
+            "B": "This is an Acura TSX Sedan with a sleek design.",
+            "C": "This image shows a Black-footed Albatross bird.",
+            "D": "This image shows a pad thai food item."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Black_footed_Albatross",
+        "question_type": "shorter_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M3 Coupe 2012 car with a distinctive design featuring a prominent grille, aggressive styling, dual exhausts, sporty wheels, and a sleek coupe body with side gills.",
+            "B": "This is an Acura TSX Sedan 2012 car with a sleek design, Acura branding on the grille, projector headlights, five-spoke wheels, and a sporty profile with integrated dual exhausts.",
+            "C": "This image shows a Black-footed Albatross bird with a dark body and long wings.",
+            "D": "This image shows a pad thai food item with rice noodles stir-fried with vegetables, protein, and a flavorful sauce, garnished with peanuts, cilantro, lime, and bean sprouts."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Black_footed_Albatross",
+        "question_type": "longer_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M3 Coupe.",
+            "B": "This is an Acura TSX Sedan.",
+            "C": "This image shows a Black-footed Albatross bird with a predominantly dark brown body, a pale head and neck, a long pinkish bill, and long, narrow wings suited for soaring over oceans.",
+            "D": "This image shows a pad thai food item."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Laysan_Albatross",
+        "question_type": "equal_long",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is an escargots food item with a spiral shell filled with green herb butter sauce, typically served as a gourmet dish in various culinary presentations.",
+            "B": "This is a Laysan Albatross bird with a white body, black wings with white underparts, a pale pink bill with a dark tip, often seen soaring gracefully over oceans or resting on grassy areas.",
+            "C": "This is a BMW M3 Coupe 2012 car with a distinctive BMW M3 design featuring a prominent kidney grille, aggressive styling, dual exhausts, sporty alloy wheels, and a sleek coupe body with side gills for enhanced performance aesthetics.",
+            "D": "This is a BMW M5 Sedan 2010 car with a distinctive BMW M5 design featuring a prominent kidney grille, M5 badge, quad exhausts, sporty alloy wheels, side gills, aerodynamic mirrors, and aggressive front and rear bumpers for enhanced performance."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "mcq_id": "Laysan_Albatross",
+        "question_type": "equal_short",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is an escargots dish with herb butter.",
+            "B": "This is a Laysan Albatross with black wings.",
+            "C": "This is a BMW M3 Coupe with sporty design.",
+            "D": "This is a BMW M5 Sedan with quad exhausts."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "mcq_id": "Laysan_Albatross",
+        "question_type": "shorter_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is an escargots food item with a spiral shell filled with green herb butter sauce, typically served as a gourmet dish in various culinary presentations.",
+            "B": "This is a Laysan Albatross with black wings.",
+            "C": "This is a BMW M3 Coupe 2012 car with a distinctive BMW M3 design featuring a prominent kidney grille, aggressive styling, dual exhausts, sporty alloy wheels, and a sleek coupe body with side gills for enhanced performance aesthetics.",
+            "D": "This is a BMW M5 Sedan 2010 car with a distinctive BMW M5 design featuring a prominent kidney grille, M5 badge, quad exhausts, sporty alloy wheels, side gills, aerodynamic mirrors, and aggressive front and rear bumpers for enhanced performance."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "mcq_id": "Laysan_Albatross",
+        "question_type": "longer_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is an escargots dish with herb butter.",
+            "B": "This is a Laysan Albatross bird with a white body, black wings with white underparts, a pale pink bill with a dark tip, often seen soaring gracefully over oceans or resting on grassy areas.",
+            "C": "This is a BMW M3 Coupe with sporty design.",
+            "D": "This is a BMW M5 Sedan with quad exhausts."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "mcq_id": "Sooty_Albatross",
+        "question_type": "equal_long",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M5 Sedan 2010 car with a distinctive design featuring a prominent kidney grille, M5 badge, quad exhausts, sporty alloy wheels, side gills, aerodynamic mirrors, and aggressive bumpers.",
+            "B": "This is a BMW M3 Coupe 2012 car with a distinctive design featuring a prominent kidney grille, aggressive styling, dual exhausts, sporty alloy wheels, and a sleek coupe body with side gills.",
+            "C": "This is a Spyker C8 Convertible 2009 car with a sleek two-door convertible design featuring distinctive gull-wing doors, large alloy wheels, a low-slung profile, and prominent side air vents.",
+            "D": "This image shows a Sooty Albatross bird with a dark gray body, a slender hooked bill, long narrow wings, and a subtle white neck band, distinguishing it from similar seabirds."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "mcq_id": "Sooty_Albatross",
+        "question_type": "equal_short",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M5 car with a kidney grille and quad exhausts.",
+            "B": "This is a BMW M3 car with a kidney grille and dual exhausts.",
+            "C": "This is a Spyker C8 car with gull-wing doors and large wheels.",
+            "D": "This is a Sooty Albatross with a dark body and hooked bill."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "mcq_id": "Sooty_Albatross",
+        "question_type": "shorter_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M5 Sedan 2010 car with a distinctive design featuring a prominent kidney grille, M5 badge, quad exhausts, sporty alloy wheels, side gills, aerodynamic mirrors, and aggressive bumpers.",
+            "B": "This is a BMW M3 Coupe 2012 car with a distinctive design featuring a prominent kidney grille, aggressive styling, dual exhausts, sporty alloy wheels, and a sleek coupe body with side gills.",
+            "C": "This is a Spyker C8 Convertible 2009 car with a sleek two-door convertible design featuring distinctive gull-wing doors, large alloy wheels, a low-slung profile, and prominent side air vents.",
+            "D": "This is a Sooty Albatross with a dark body and hooked bill."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "mcq_id": "Sooty_Albatross",
+        "question_type": "longer_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a BMW M5 car with a kidney grille.",
+            "B": "This is a BMW M3 car with dual exhausts.",
+            "C": "This is a Spyker C8 car with gull-wing doors.",
+            "D": "This is a Sooty Albatross bird with a dark gray body, slender hooked bill, long narrow wings, and a subtle white neck band, distinguishing it from similar seabirds."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "mcq_id": "Groove_billed_Ani",
+        "question_type": "equal_long",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is an escargots food item with a spiral shell filled with green herb butter sauce, typically served as a gourmet dish in various culinary presentations.",
+            "B": "This is a Lamborghini Gallardo LP 570-4 Superleggera 2012 car with a sleek, vibrant green exterior, sharp angular lines, a prominent front grille, black rims, and a distinctive 'Superleggera' badge.",
+            "C": "This is a Groove-billed Ani bird with sleek black plumage, a long tail, and a distinctive thick, grooved bill, perched in various natural settings without visible white stripes above its eyes.",
+            "D": "This is an EntleBucher dog with a tricolor coat of black, white, and tan, symmetrical facial markings, a white blaze, tan spots above eyes and cheeks, and white patches on chest, feet, and tail tip."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Groove_billed_Ani",
+        "question_type": "equal_short",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is escargots with a spiral shell.",
+            "B": "This is a Lamborghini Gallardo car.",
+            "C": "This is a Groove-billed Ani bird.",
+            "D": "This is an EntleBucher dog."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Groove_billed_Ani",
+        "question_type": "shorter_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is an escargots food item with a spiral shell filled with green herb butter sauce, typically served as a gourmet dish in various culinary presentations.",
+            "B": "This is a Lamborghini Gallardo LP 570-4 Superleggera 2012 car with a sleek, vibrant green exterior, sharp angular lines, a prominent front grille, black rims, and a distinctive 'Superleggera' badge.",
+            "C": "This is a Groove-billed Ani bird.",
+            "D": "This is an EntleBucher dog with a tricolor coat of black, white, and tan, symmetrical facial markings, a white blaze, tan spots above eyes and cheeks, and white patches on chest, feet, and tail tip."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Groove_billed_Ani",
+        "question_type": "longer_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is escargots.",
+            "B": "This is a Lamborghini.",
+            "C": "This is a Groove-billed Ani bird with sleek black plumage, a long tail, and a distinctive thick, grooved bill, perched in various natural settings without visible white stripes above its eyes.",
+            "D": "This is an EntleBucher."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Crested_Auklet",
+        "question_type": "equal_long",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This image shows a Crested Auklet bird which has a small, dark body, a bright orange bill, distinctive white facial markings, and a prominent crest of feathers on its head.",
+            "B": "This is a Chevrolet TrailBlazer SS 2009 car which has a distinctive SS badge, sporty alloy wheels, a lowered stance, and a robust front grille, distinguishing it as a performance-oriented SUV variant within its class.",
+            "C": "This is a Toyota 4Runner SUV 2012 car which has a robust, angular design with elevated stance, a prominent horizontal-slat grille, large alloy wheels, and a distinctive rear spoiler, distinguishing it as a versatile off-road vehicle.",
+            "D": "This is a Chevrolet HHR SS 2010 car which has a boxy design, large wheels, a distinctive grille, and a retro-inspired aesthetic reminiscent of classic Chevrolet models, featuring practical features like a fold-flat front passenger seat for versatility."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "mcq_id": "Crested_Auklet",
+        "question_type": "equal_short",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a Crested Auklet bird with a dark body and orange bill.",
+            "B": "This is a Chevrolet TrailBlazer SS 2009 with sporty wheels.",
+            "C": "This is a Toyota 4Runner SUV 2012 with a robust design.",
+            "D": "This is a Chevrolet HHR SS 2010 with a boxy design."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "mcq_id": "Crested_Auklet",
+        "question_type": "shorter_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a Crested Auklet bird with a dark body and orange bill.",
+            "B": "This is a Chevrolet TrailBlazer SS 2009 car which has a distinctive SS badge, sporty alloy wheels, a lowered stance, and a robust front grille, distinguishing it as a performance-oriented SUV variant within its class.",
+            "C": "This is a Toyota 4Runner SUV 2012 car which has a robust, angular design with elevated stance, a prominent horizontal-slat grille, large alloy wheels, and a distinctive rear spoiler, distinguishing it as a versatile off-road vehicle.",
+            "D": "This is a Chevrolet HHR SS 2010 car which has a boxy design, large wheels, a distinctive grille, and a retro-inspired aesthetic reminiscent of classic Chevrolet models, featuring practical features like a fold-flat front passenger seat for versatility."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "mcq_id": "Crested_Auklet",
+        "question_type": "longer_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This image shows a Crested Auklet bird which has a small, dark body, a bright orange bill, distinctive white facial markings, and a prominent crest of feathers on its head.",
+            "B": "This is a Chevrolet TrailBlazer SS 2009 with sporty wheels.",
+            "C": "This is a Toyota 4Runner SUV 2012 with a robust design.",
+            "D": "This is a Chevrolet HHR SS 2010 with a boxy design."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "mcq_id": "Least_Auklet",
+        "question_type": "equal_long",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a spaghetti bolognese dish with tender pasta noodles, a rich red meat sauce, garnished with cheese, herbs, and sometimes garlic bread.",
+            "B": "This is a Chevrolet TrailBlazer SS 2009 vehicle with a distinctive SS badge, sporty alloy wheels, a lowered stance, and a robust front grille.",
+            "C": "This is a Least Auklet bird with a small black and white body, black head and back, white belly, black bill, white eye-ring, and black legs.",
+            "D": "This is a Toyota 4Runner SUV 2012 model with a robust, angular design, elevated stance, prominent grille, large wheels, and a distinctive rear spoiler."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Least_Auklet",
+        "question_type": "equal_short",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a pasta dish with meat sauce.",
+            "B": "This is a Chevrolet SUV with sporty features.",
+            "C": "This is a Least Auklet bird with black and white body.",
+            "D": "This is a Toyota SUV with a robust design."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Least_Auklet",
+        "question_type": "shorter_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a spaghetti bolognese dish with tender pasta noodles, a rich red meat sauce, garnished with cheese, herbs, and sometimes garlic bread.",
+            "B": "This is a Chevrolet TrailBlazer SS 2009 vehicle with a distinctive SS badge, sporty alloy wheels, a lowered stance, and a robust front grille.",
+            "C": "This is a Least Auklet bird with black and white body.",
+            "D": "This is a Toyota 4Runner SUV 2012 model with a robust, angular design, elevated stance, prominent grille, large wheels, and a distinctive rear spoiler."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "mcq_id": "Least_Auklet",
+        "question_type": "longer_correct",
+        "difficulty": "Hard",
+        "question": "Which description matches this object?",
+        "options": {
+            "A": "This is a pasta dish with meat sauce.",
+            "B": "This is a Chevrolet SUV with sporty features.",
+            "C": "This is a Least Auklet bird with a small black and white body, black head and back, white belly, black bill, white eye-ring, and black legs.",
+            "D": "This is a Toyota SUV with a robust design."
+        },
+        "correct_answer": "C"
+    }
+]
