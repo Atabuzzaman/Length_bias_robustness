@@ -46,7 +46,7 @@ Code is **coming soon**.
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{atabuzzaman-etal-2026-investigating,
+@inproceedings{atabuzzaman2026investigating,
     title = "Investigating Length Bias and Robustness in {LVLM}s for Multiple-Choice Question Answering",
     author = "Atabuzzaman, Md.  and Alomari, Hani  and Thomas, Chris",
     booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
