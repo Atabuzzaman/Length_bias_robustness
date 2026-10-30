@@ -9,7 +9,8 @@
 
 <p align="center">
   <b>Md. Atabuzzaman</b>, <b>Hani Alomari</b>, <b>Chris Thomas</b><br>
-  Virginia Tech
+  Department of Computer Science, Virginia Tech<br>
+  <b>EMNLP 2026 (Main Conference)</b>
 </p>
 
 <p align="center">
