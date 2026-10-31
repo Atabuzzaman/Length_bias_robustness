@@ -11,6 +11,7 @@
   <b>Md. Atabuzzaman</b>, <b>Hani Alomari</b>, <b>Chris Thomas</b><br>
   Department of Computer Science, Virginia Tech<br>
   <b>EMNLP 2026 (Main Conference)</b>
+  🏆 <b>Senior Area Chair (SAC) Highlight Award</b>
 </p>
 
 <p align="center">
